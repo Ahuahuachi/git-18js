@@ -6,5 +6,5 @@
 4. Yusef Lopez @jlopezy
 5. Aaron Armando Enciso Guzman @Aaron21King
 6. Nestor Jesus Ramirez Reyes @Nesjesramrey
-7. David @Daviidro
+7. David Romero Salinas @Daviidro
 
