@@ -1,2 +1,3 @@
-# git-18js
-This is the git &amp; github main excercise for the 18 JS Generation @Kodemia
+# Koders 18JS
+
+1. Alfredo Fabián Altamirano Tena @ahuahuachi
