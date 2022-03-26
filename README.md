@@ -5,4 +5,6 @@
 3. Alan Guerrero García @alansushi
 4. Yusef Lopez @jlopezy
 5. Aaron Armando Enciso Guzman @Aaron21King
-6. Jesus Gonzalez Valencia @jesus241295
+6. Nestor Jesus Ramirez Reyes @Nesjesramrey
+7. Jesus Gonzalez Valencia @jesus241295
+
