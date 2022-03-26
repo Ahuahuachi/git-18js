@@ -10,4 +10,5 @@
 8. Daniel Isaac Vazquez Siqueiros @dannyvazquez78
 9. Jesus Gonzalez Valencia @jesus241295
 10. Daniel Aguilar Mejía @Leinad0407
+11. David Romero Salinas @Daviidro
 
